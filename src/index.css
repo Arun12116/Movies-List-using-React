@@ -1,13 +1,54 @@
-body {
+*{
+  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  background-color: #8e9597;
+  text-transform: uppercase;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: darkred;
+  margin-top: 5px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  
+.card:hover img {
+  /* -webkit-transform: scale(1.05); */
+  transform: scale(1.02);
+}
+
+.card img{
+  
+  width: 20vw;
+  height: 40vh;
+  
+}
+.Cards{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  
+}
+button{
+  margin-top: 5px;
+  width:8vw;
+  height: 5vh;
+  border-radius: 5px;
+  font-size:10px;
+  cursor: pointer;
+  background-color: rgb(8, 8, 8);
+  color: white;
+}
+button:hover{
+  background-color: red;
+  
+  
+
+}
+.second-card{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
 }
