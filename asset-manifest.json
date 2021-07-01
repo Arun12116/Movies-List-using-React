@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Movies-List-using-React/static/css/main.5a7faa20.chunk.css",
+    "main.js": "/Movies-List-using-React/static/js/main.f106cfc1.chunk.js",
+    "main.js.map": "/Movies-List-using-React/static/js/main.f106cfc1.chunk.js.map",
+    "runtime-main.js": "/Movies-List-using-React/static/js/runtime-main.570f95eb.js",
+    "runtime-main.js.map": "/Movies-List-using-React/static/js/runtime-main.570f95eb.js.map",
+    "static/js/2.5ffc6cc5.chunk.js": "/Movies-List-using-React/static/js/2.5ffc6cc5.chunk.js",
+    "static/js/2.5ffc6cc5.chunk.js.map": "/Movies-List-using-React/static/js/2.5ffc6cc5.chunk.js.map",
+    "index.html": "/Movies-List-using-React/index.html",
+    "static/css/main.5a7faa20.chunk.css.map": "/Movies-List-using-React/static/css/main.5a7faa20.chunk.css.map",
+    "static/js/2.5ffc6cc5.chunk.js.LICENSE.txt": "/Movies-List-using-React/static/js/2.5ffc6cc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.570f95eb.js",
+    "static/js/2.5ffc6cc5.chunk.js",
+    "static/css/main.5a7faa20.chunk.css",
+    "static/js/main.f106cfc1.chunk.js"
+  ]
+}
